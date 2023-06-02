@@ -6,3 +6,5 @@ OBJECTIVE: The goal of this data analysis project using SQL and Python libraries
 2. Improve pricing strategy: We need to develop a pricing strategy that takes into account the changing market conditions and customer preferences to attract and retain customers.
 
 3. Enhance customer experience: We need to focus on providing a seamless and convenient experience for our customers, from booking to arrival, to differentiate ourselves in a highly competitive industry and increase customer loyalty.
+
+Conclusion with story telling are also given in the "Conclusion.pdf" file.
