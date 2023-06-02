@@ -1,5 +1,5 @@
 # Airlines-Revenue-Analysis-using-SQL
-OBJECTIVE: To investigate opportunity to increase the occupancy rate on low-performing flights in Airlines to boost the average profit earned per seat.
+OBJECTIVE: The goal of this data analysis project using SQL and Python libraries would be to investigate the reason of losses of an airlines company and identify the opportunities to increase its revenue and profitability for the airline.
 
 1. Increase occupancy rate: By increasing the occupancy rate, we can boost the average profit earned per seat and mitigate the impact of the challenges we're facing.
 
